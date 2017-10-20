@@ -14,5 +14,3 @@ else
 taken = true
 end
 end
-
-
