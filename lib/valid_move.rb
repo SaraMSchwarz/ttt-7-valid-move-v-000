@@ -15,4 +15,4 @@ taken = true
 end
 end
 
-#The move is valid when the user picks 0:8, the space is empty and " " or " "
+
